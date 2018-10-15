@@ -1,1 +1,1 @@
-include ':app', ':mnotification'
+include ':app', ':aNotification'

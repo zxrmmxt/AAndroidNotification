@@ -1,4 +1,4 @@
-package com.xt.m_notification;
+package com.xt.a_notification;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -17,7 +17,7 @@ import static android.content.Context.NOTIFICATION_SERVICE;
  * Created by xuti on 2017/9/28.
  */
 
-public class MyNotificationUtils {
+public class ANotificationUtils {
     /**
      * Notification构造器
      */
@@ -26,7 +26,7 @@ public class MyNotificationUtils {
     private Context context;
     private RemoteViews remoteViews;
 
-    public MyNotificationUtils(Context context, int iconRes) {
+    public ANotificationUtils(Context context, int iconRes) {
         this.context = context;
         initNotification(iconRes);
     }

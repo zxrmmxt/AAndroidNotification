@@ -1,4 +1,4 @@
-package com.xt.m_notification;
+package com.xt.a_notification;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

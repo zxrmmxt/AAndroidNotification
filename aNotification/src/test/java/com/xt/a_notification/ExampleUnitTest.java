@@ -1,4 +1,4 @@
-package com.xt.m_notification;
+package com.xt.a_notification;
 
 import org.junit.Test;
 

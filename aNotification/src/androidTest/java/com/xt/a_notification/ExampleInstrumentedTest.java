@@ -1,4 +1,4 @@
-package com.xt.m_notification;
+package com.xt.a_notification;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
